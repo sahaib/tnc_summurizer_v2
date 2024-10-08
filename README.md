@@ -64,3 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for the various libraries used in this project
 - Cursor IDE
 
+## App Preview:
+![Main App](main_app.png)
+![History](SH.png)
+
