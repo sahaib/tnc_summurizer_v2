@@ -42,3 +42,25 @@ The Privacy Policy Summarizer is a Python application that uses AI to summarize 
 
 ## Usage
 Run the script:python tnc_summurizer.py
+
+1. Enter a URL or paste the privacy policy text into the input box.
+2. Select the AI model you want to use (GPT or Claude).
+3. Click the "Summarize" button.
+4. View the summary in the result text area.
+5. Click "Show History" to view previous summaries.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- OpenAI for the GPT model
+- Anthropic for the Claude model
+- The open-source community for the various libraries used in this project
+- Cursor IDE
+
